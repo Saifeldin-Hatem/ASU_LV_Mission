@@ -9,3 +9,5 @@ Proteus 3: (failed to upload)
 
 
 <img width="1145" height="772" alt="Image" src="https://github.com/user-attachments/assets/996b3756-09ae-4cee-b5db-1395f3a47e2e" />
+
+<img width="897" height="755" alt="Image" src="https://github.com/user-attachments/assets/0730c360-db55-448f-bb78-d8e3450a7470" />
