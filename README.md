@@ -5,7 +5,7 @@ Proteus 1: https://github.com/user-attachments/assets/ad4f550c-3458-435a-8513-8c
 
 Proteus 2: https://github.com/user-attachments/assets/af68b594-a269-422f-943d-4a9f7b4dc7d8
 
-Proteus 3: (failed to upload)
+Proteus 3: (failed to upload check videos file)
 
 
 <img width="1145" height="772" alt="Image" src="https://github.com/user-attachments/assets/996b3756-09ae-4cee-b5db-1395f3a47e2e" />
